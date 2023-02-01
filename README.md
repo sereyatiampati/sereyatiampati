@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**sereyatiampati/sereyatiampati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Learning Ruby
 - 🌱 I’m currently learning Full Stack Development at Flatiron School
 - 👯 I’m looking to collaborate on new projects 
