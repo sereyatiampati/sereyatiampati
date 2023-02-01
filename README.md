@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **sereyatiampati/sereyatiampati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Twitter](https://twitter.com/emily_tiampati)/[Linkedin](https://www.linkedin.com/in/sereyatiampati/)
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: ...
--->
+<br/>
+![Snake animation](https://github.com/sereyatiampati/sereyatimpati/blob/output/github-contribution-grid-snake.svg)
+
+
