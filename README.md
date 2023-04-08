@@ -11,7 +11,7 @@
  <br />
 <div align="center"> 
  <img height="150em" alt = "Sereya Tiampati Github Stats" src="https://github-readme-stats.vercel.app/api?username=sereyatiampati&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghosharnab00&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereyatiampati&layout=compact&langs_count=7&theme=algolia"/>
 </div>
  
 <br />
