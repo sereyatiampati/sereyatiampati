@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Full Stack Development at Moringa School (Flatiron Curriculum)
 - 👯 I’m looking to collaborate on different projects 
 - 💬 Ask me about Rails & React
-- 📫 How to reach me: [Twitter](https://twitter.com/emily_tiampati) and [Linkedin](https://www.linkedin.com/in/sereyatiampati)
+- 📫 How to reach me: [Twitter](https://twitter.com/emily_tiampati) and [Gmail](https://www.gmail.com)
 - 😄 Pronouns: Her/She
 - ⚡ Fun fact: I'm a very curious person
 
