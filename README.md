@@ -5,7 +5,6 @@
 - 👯 I’m looking to collaborate on different projects 
 - 💬 Ask me about Rails & React
 - 📫 How to reach me: [Twitter](https://twitter.com/emily_tiampati) and [Gmail](https://www.gmail.com)
-- 😄 Pronouns: Her/She
 - ⚡ Fun fact: I'm a very curious person
 
  <br />
