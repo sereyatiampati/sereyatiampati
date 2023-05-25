@@ -44,14 +44,16 @@
 
 ### ***Connect with me :***
 
-<!-- <a href="https://www.linkedin.com/in/sereyatiampati">
-<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a> -->
-<a href="mailto:emilytiampati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <a href="https://medium.com/@sereya"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href="mailto:emilytiampati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="[https://twitter.com/arnabghosh_co](https://twitter.com/emily_tiampati))">
   <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" alt="twitter" style="vertical-align:top; margin:4px; width:50px">
-</a>&nbsp;&nbsp;&nbsp; 
+</a>
+<a href="https://www.linkedin.com/in/sereyatiampati">
+<img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;&nbsp; 
 
  <br />
 
