@@ -50,10 +50,10 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereyatiampati&layout=compact&langs_count=7&theme=bear"/>
     <br><br>
         <img align="center" 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=sereyatiampati&theme=radical&border=7F3FBF&background=0D1117" alt="sereyatiampati"/>
+        src="https://github-readme-streak-stats.herokuapp.com/?user=sereyatiampati&theme=bear&border=7F3FBF&background=0D1117" alt="sereyatiampati"/>
         <br><br>
         <a href="https://github.com/sereyatiampati">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sereyatiampati&theme=radical" alt="sereyatiampati"/>
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sereyatiampati&theme=bear" alt="sereyatiampati"/>
         </a>
 </div>
  
