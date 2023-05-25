@@ -40,9 +40,7 @@
 
  <br />
 <div align="center"> 
-<!--  <img height="150em" alt = "Sereya Tiampati Github Stats" src="https://github-readme-stats.vercel.app/api?username=sereyatiampati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> -->
-     <img height="150em" alt = "Sereya Tiampati Github Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=sereyatiampati&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereyatiampati&layout=compact&langs_count=7&theme=radical"/>
+ <img height="150em" alt = "Sereya Tiampati Github Stats" src="https://github-readme-stats.vercel.app/api?username=sereyatiampati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
     <br><br>
         <img align="center" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=sereyatiampati&theme=radical&border=7F3FBF&background=0D1117" alt="sereyatiampati"/>
