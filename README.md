@@ -1,13 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Emilly+Tiampati!;Motivated,+Passionate,+Fast-learner)](https://git.io/typing-svg)
 
-### Hi there 👋 I'm [Emilly Sereya Tiampati](https://www.linkedin.com/in/sereyatiampati)
+### Hi there 👋 I'm [Emilly Sereya Tiampati](https://www.linkedin.com/in/sereyatiampati), Full stack Software Engineer.
 
-- 🔭 I’m currently working on sharpening my Rails & ReactJS skills
-- 🌱 I’m currently learning Full Stack Development at Moringa School (Flatiron Curriculum)
-- 👯 I’m looking to collaborate on different projects 
-- 💬 Ask me about Rails & React
-- 📫 How to reach me: [Twitter](https://twitter.com/emily_tiampati) and [Gmail](https://www.gmail.com)
-- ⚡ Fun fact: I'm a very curious person
 ---
 
 <details align="left">
