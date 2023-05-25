@@ -68,8 +68,8 @@
 
  <br />
   <p align="left" > 
-        <img src="https://komarev.com/ghpvc/?username=juliamuiruri4&label=Profile%20views&color=0e75b6&style=flat" 
-        alt="juliamuiruri4"/> 
+        <img src="https://komarev.com/ghpvc/?username=sereyatiampati&label=Profile%20views&color=0e75b6&style=flat" 
+        alt="sereyatiampati"/> 
   </p>
 
 
