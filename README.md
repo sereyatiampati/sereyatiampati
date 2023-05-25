@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Emilly+Tiampati!;Motivated+Passionate+Fast-learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Emilly+Tiampati!;Motivated,+Passionate,+Fast-learner)](https://git.io/typing-svg)
 
 ### Hi there I'm [Sereya Tiampati](https://www.linkedin.com/in/sereyatiampati)👋
 
