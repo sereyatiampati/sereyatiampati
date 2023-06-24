@@ -46,9 +46,9 @@
         <img align="center" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=sereyatiampati&theme=radical&border=7F3FBF&background=0D1117" alt="sereyatiampati"/>
         <br><br>
-        <a href="https://github.com/sereyatiampati">
+<!--         <a href="https://github.com/sereyatiampati">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sereyatiampati&theme=radical" alt="sereyatiampati"/>
-        </a>
+        </a> -->
 </div>
  
 <br />
