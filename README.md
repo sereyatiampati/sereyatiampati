@@ -50,7 +50,6 @@
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sereyatiampati&theme=radical" alt="sereyatiampati"/>
         </a> -->
 </div>
- 
 <br />
 
 ### ***Connect with me :***
