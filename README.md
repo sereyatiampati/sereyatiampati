@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Emilly+Tiampati!;Motivated,+Passionate,+Fast-learner)](https://git.io/typing-svg)
 
-### Hi there 👋 I'm Emilly, Full stack Software Engineer.
+### Hi there 👋 I'm Emilly, Software Engineer.
 
 ---
 
