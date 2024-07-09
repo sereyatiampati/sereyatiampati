@@ -1,6 +1,4 @@
-### Hi there 👋 I'm Emilly, Software Engineer.
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;I+am+Emilly+Tiampati!;Curious,+Passionate,+Fast-learner;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋!;I+am+Emilly+Tiampati!;A+Software+Engineer;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 
 
