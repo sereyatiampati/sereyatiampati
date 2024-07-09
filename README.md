@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋!;I+am+Emilly+Tiampati!;A+Software+Engineer;Welcome+to+my+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+there+👋!;I+am+Emilly+Tiampati!;A+Software+Engineer;Welcome+to+my+profile!)](https://git.io/typing-svg)
 
 
 
