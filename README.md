@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Emilly+Tiampati!;Motivated,+Passionate,+Fast-learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there!;My+name+is+Emilly+Tiampati!;Curious,+Passionate,+Fast-learner)](https://git.io/typing-svg)
 
 ### Hi there 👋 I'm Emilly, Software Engineer.
 
@@ -45,9 +45,9 @@
 <!--  <img height="150em" alt = "Sereya Tiampati Github Stats" src="https://github-readme-stats.vercel.app/api?username=sereyatiampati&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sereyatiampati&layout=compact&langs_count=7&theme=radical"/>
     <br><br> -->
-        <img align="center" 
+<!--         <img align="center" 
         src="https://github-readme-streak-stats.herokuapp.com/?user=sereyatiampati&theme=radical&border=7F3FBF&background=0D1117" alt="sereyatiampati"/>
-        <br><br>
+        <br><br> -->
 <!--         <a href="https://github.com/sereyatiampati">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sereyatiampati&theme=radical" alt="sereyatiampati"/>
         </a> -->
@@ -59,9 +59,9 @@
 
 <a href="https://medium.com/@sereya"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
 <a href="mailto:emilytiampati@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="[https://twitter.com/arnabghosh_co](https://twitter.com/emily_tiampati))">
+**<a href="[https://twitter.com/arnabghosh_co](https://twitter.com/emily_tiampati))">
   <img src="https://logos-world.net/wp-content/uploads/2020/04/Twitter-Logo.png" alt="twitter" style="vertical-align:top; margin:4px; width:50px">
-</a>
+</a>**
 <a href="https://www.linkedin.com/in/sereyatiampati">
 <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
